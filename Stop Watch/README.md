@@ -16,8 +16,8 @@ A simple and responsive stopwatch application built using HTML, CSS, and JavaScr
 - **JavaScript:** For the stopwatch functionality, including start, stop, reset, and lap features.
 
 <h2>Live Demo</h2>
-Check out the live version of the project: Here(https://stopwatchjs-sufiyan.netlify.app/)
+Check out the live version of the project: [Here](https://stopwatchjs-sufiyan.netlify.app/)
 
 <h2>Screenshot</h2>
-!("C:\Users\Zbook\OneDrive\Pictures\Screenshots\Screenshot 2024-08-13 195515.png")
+![Stopwatch]("C:\Users\Zbook\OneDrive\Pictures\Screenshots\Screenshot 2024-08-13 195515.png")
 
