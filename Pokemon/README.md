@@ -1,8 +1,8 @@
-#Pokemon Cards Project 
+<h1>Pokemon Cards Project </h1>
 
 The Pokemon Cards project is a dynamic web application built using HTML, CSS, and JavaScript. It allows users to browse through various Pokemon cards, filtered by type, and provides detailed information retrieved from the Pokemon API.
 
-##Features:
+<h2>Features:</h2>
 
 - Category-Wise Selection: Users can filter Pokemon by their type.
 - Search Functionality: Search for specific Pokemon easily.
@@ -13,13 +13,13 @@ The Pokemon Cards project is a dynamic web application built using HTML, CSS, an
 - Additional Features: Enhanced UI with order numbers, waiting features, and more.
 
 
-##Technologies Used:
+<h2>Technologies Used:</h2>
 
 - HTML5
 - CSS3
 - JavaScript
 - Pokemon API
 
-## Live Demo
+<h2> Live Demo:</h2> 
 
 - Check out the live demo of the project: https://pokemon-geekstermon.netlify.app/
