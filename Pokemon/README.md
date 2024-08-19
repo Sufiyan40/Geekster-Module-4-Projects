@@ -4,7 +4,7 @@ The Pokemon Cards project is a dynamic web application built using HTML, CSS, an
 
 <h2>Features:</h2>
 
--** Category-Wise Selection:** Users can filter Pokemon by their type.
+- **Category-Wise Selection:** Users can filter Pokemon by their type.
 - **Search Functionality:** Search for specific Pokemon easily.
 - **API Integration:** Fetches real-time data from the Pokemon API for detailed insights.
 - **Interactive Flip Cards:** Engage with Pokemon cards that flip to show more details.
